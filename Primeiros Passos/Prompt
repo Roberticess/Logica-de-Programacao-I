@@ -1,0 +1,3 @@
+prompt("Informe sua altura");
+"1.71"
+var altura = prompt("Informe sua altura");
