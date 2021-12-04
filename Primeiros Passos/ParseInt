@@ -1,0 +1,14 @@
+var texto = "10"
+undefined
+texto
+"10"
+texto
+"10"
+texto
+"10"
+var numero = parseInt(texto);
+undefined
+texto
+"10"
+numero
+10
